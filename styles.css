@@ -2,7 +2,7 @@
 body{
 	background-color: #f5f5f5;
 }
- .b{
+ div.b{
 	border: 1px solid black;
 	padding: 0.5rem;
 	background-color: white;
