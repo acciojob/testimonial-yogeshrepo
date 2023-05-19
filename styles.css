@@ -8,6 +8,7 @@ body{
 	background-color: white;
 	
  }
-.c{
-	text-align: right
+p.c{
+	font-style: italic; 
+	text-align: right;
 }
