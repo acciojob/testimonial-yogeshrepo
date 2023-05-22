@@ -5,11 +5,8 @@ body{
  div.b{
 	border: 1px solid lightgray;
 	padding: 0.5rem;
-	background-color: white;
-	
+	background-color: white;	
  }
-
-
 p.c{
 	font-style: italic; 
 	text-align: right;
